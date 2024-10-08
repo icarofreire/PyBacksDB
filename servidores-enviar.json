@@ -1,0 +1,35 @@
+{
+    "servidores_enviar": [
+      {
+        "port": 22,
+        "host": "187.17.2.105",
+        "username": "*****",
+        "password": "********"
+      },
+      {
+        "port": 22,
+        "host": "187.17.3.12",
+        "username": "*****",
+        "password": "*********",
+        "pasta_backup": "/home/a_fhs/backups_banco/"
+      },
+      {
+        "port": 22,
+        "host": "172.25.190.13",
+        "username": "****",
+        "password": "***********"
+      },
+      {
+        "port": 22,
+        "host": "10.1.0.55",
+        "username": "*******",
+        "password": "********"
+      }
+    ],
+    "bancos": [
+      {
+        "nome": "banco",
+        "usuario": "postgres"
+      }
+    ]
+}
